@@ -1,0 +1,42 @@
+<ns0:test-suite xmlns:ns0="urn:model.allure.qatools.yandex.ru" start="1555168257472" stop="1555168326656">
+  <name>Test</name>
+  <labels/>
+  <test-cases>
+    <test-case start="1555168257472" status="passed" stop="1555168290673">
+      <name>test_search.Test_search.test_search[search_test_001-\u4e2d\u56fd\u98ce]</name>
+      <attachments/>
+      <labels>
+        <label name="severity" value="normal"/>
+        <label name="thread" value="3700-MainThread"/>
+        <label name="host" value="WIN-UGCS6IQO9EP"/>
+        <label name="framework" value="pytest"/>
+        <label name="language" value="cpython3"/>
+      </labels>
+      <steps/>
+    </test-case>
+    <test-case start="1555168290675" status="passed" stop="1555168308253">
+      <name>test_search.Test_search.test_search[search_test_002-\u7b80\u7ea6]</name>
+      <attachments/>
+      <labels>
+        <label name="severity" value="normal"/>
+        <label name="thread" value="3700-MainThread"/>
+        <label name="host" value="WIN-UGCS6IQO9EP"/>
+        <label name="framework" value="pytest"/>
+        <label name="language" value="cpython3"/>
+      </labels>
+      <steps/>
+    </test-case>
+    <test-case start="1555168308255" status="passed" stop="1555168326656">
+      <name>test_search.Test_search.test_search[search_test_003-\u6587\u827a]</name>
+      <attachments/>
+      <labels>
+        <label name="severity" value="normal"/>
+        <label name="thread" value="3700-MainThread"/>
+        <label name="host" value="WIN-UGCS6IQO9EP"/>
+        <label name="framework" value="pytest"/>
+        <label name="language" value="cpython3"/>
+      </labels>
+      <steps/>
+    </test-case>
+  </test-cases>
+</ns0:test-suite>

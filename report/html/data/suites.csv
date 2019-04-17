@@ -1,0 +1,4 @@
+"Status","Name","Duration in ms","Description"
+"passed","Test.test_search.Test_search.test_search[search_test_003-\u6587\u827a]","18401",""
+"passed","Test.test_search.Test_search.test_search[search_test_001-\u4e2d\u56fd\u98ce]","33201",""
+"passed","Test.test_search.Test_search.test_search[search_test_002-\u7b80\u7ea6]","17578",""
